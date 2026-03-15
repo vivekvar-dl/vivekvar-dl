@@ -48,4 +48,3 @@ Building something interesting? Working on AI? Let's talk.
 
 ---
 
-*Making AI useful, one commit at a time.*
