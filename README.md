@@ -1,4 +1,4 @@
-# Vivek Varshney
+# Vivek Varikuti
 
 **AI Engineer. Builder. Founder.**
 
